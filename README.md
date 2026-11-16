@@ -340,7 +340,7 @@ Potential areas for further development include:
 
 Engineering Student | Artificial Intelligence | Computer Vision | Software Development
 
-GitHub: [@Akashbs-06](https://github.com/Akashbs-06)
+GitHub: [@Akashbs-06](https://github.com/Akashbs56)
 
 ## 🤝 Contributing
 
